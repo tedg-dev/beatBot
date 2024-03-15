@@ -19,7 +19,7 @@
     "fluent-ffmpeg": "^2.1.0",
     "get-youtube-id": "^1.0.0",
     "lame": "^1.2.4",
-    "lodash": "~3.10.1",
+    "lodash": "~4.17.21",
     "mkdirp": "^0.5.1",
     "speaker": "^0.3.0",
     "vlc-player": "^0.12.0",
